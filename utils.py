@@ -36,3 +36,8 @@ map_motivo_emprestimo = {
  'HOMEIMPROVEMENT': 'Reformas Domésticas',
  'DEBTCONSOLIDATION': 'Consolidação Dívidas'
 }
+
+map_inadimplencia_historica = {
+ 'N': 'Não',
+ 'Y': 'Sim'
+}
