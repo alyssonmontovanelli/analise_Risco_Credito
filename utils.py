@@ -41,3 +41,7 @@ map_inadimplencia_historica = {
  'N': 'Não',
  'Y': 'Sim'
 }
+
+variaveis_numericas = ['Idade','Renda_Anual','Anos_no_Emprego',
+                       'Valor','Taxa_Juros','Comprometimento_Renda',
+                       'Duracao_Historico_Credito']
